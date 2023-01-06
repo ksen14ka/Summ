@@ -1,0 +1,15 @@
+{
+  "originalUrl": "https://summa-propisyu.ru/?summ=2000&vat=20&val=0&sep=0",
+  "title": "Сумма Прописью Онлайн - сервис быстрого перевода",
+  "archiveTime": "2023-01-06T11:55:27.563Z",
+  "indexFilename": "index.html",
+  "resources": {
+    "stylesheet_0.css": "https://summa-propisyu.ru/static/bootstrap.min.css",
+    "stylesheet_1.css": "https://summa-propisyu.ru/static/custom.css",
+    "scripts/0.js": "https://www.googletagmanager.com/gtag/js?id=UA-70427266-2",
+    "scripts/1.js": "https://mc.yandex.ru/metrika/tag.js",
+    "scripts/2.js": "https://yandex.ru/ads/system/context.js",
+    "images/0.png": "https://summa-propisyu.ru/favicon.png",
+    "images/1.png": "https://summa-propisyu.ru/static/copy.png"
+  }
+}
